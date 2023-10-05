@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+}
+
+img {
+    width: 500px;
+    height: 372px;
+    position: fixed;
+    left: 218px;
+    top: 115px;
+}
+
+table{
+    margin: 30px 106px 30px 206px;
+    position: fixed;
+    border: 3px solid black;
+    width: 1200px;
+    height: 700px;
+}
+
+#red {
+    background-color: RED;
+    padding: 0px;
+}
+
+#white {
+    background-color: white;
+    width: 800px; 
+    padding: 0px;
+}
+
+

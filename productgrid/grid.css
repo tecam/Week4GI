@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.navbar a {
+    float: right;
+    text-decoration: none;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+
+
+img {
+    width: 120px;
+    height: 18opx;
+}
